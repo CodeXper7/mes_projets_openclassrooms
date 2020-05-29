@@ -1,0 +1,1 @@
+Le but de ce jeu est de guider MacGyver de la ligne de départ jusqu'à la fin du labyrinthe. A la fin du labyrinthe il trouve le gardien qu'il doit maitriser avec son arme lethal inventée et composée de trois objets(tube plastique, siringue et aiguille) qu'il doit ramasser avant.
