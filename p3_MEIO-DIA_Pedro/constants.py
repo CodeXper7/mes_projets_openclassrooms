@@ -1,15 +1,15 @@
 """Constantes du jeu de Labyrinthe Donkey Kong"""
 
-#Window settings
+# Window settings
 N_SPRITE_Y = 15
 SPRITE_SIZE = 30
 SIDE_WINDOW = N_SPRITE_Y * SPRITE_SIZE
 
-#Window configuration
+# Window configuration
 WINDOW_TITLE = "MacGyver Labyrinth"
 ICON_IMAGE = "images/MacGyver.png"
 
-#Lists of the images of the game
+# Lists of the images of the game
 HOME_IMAGE = "images/main_window.png"
 BACKGROUND_IMAGE = "images/background.jpg"
 WALL_IMAGE = "images/wall.png"
