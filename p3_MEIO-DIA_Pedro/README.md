@@ -1,4 +1,5 @@
 Projet 3, juin 2020
+
 Labyrinthe : Aidez MacGyver à s'échapper
 
 1. Installation des dépendances : pip install -r requirements.txt
